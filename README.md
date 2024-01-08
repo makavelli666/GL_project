@@ -27,14 +27,34 @@ Technologies Utilisées
     Intégration Continue : Jenkins ou GitLab CI
   
 ## Comment Exécuter le Projet
-1. Clonez le dépôt GitHub.
-2. Ouvrez le projet avec IntelliJ IDEA.
-3. Exécutez le fichier principal depuis IntelliJ.
+Prérequis
 
-## Gestion de Projet et Collaboration
-- Utilisation d'un outil de gestion de projet pour créer des diagrammes de Pert et de Gantt.
-- Utilisation de Git pour la gestion des versions et le travail collaboratif.
-- Intégration continue avec Jenkins ou GitLab CI.
+Assurez-vous d'avoir installé les outils suivants sur votre machine :
+
+    Java : Version compatible avec le projet.
+    IDE : IntelliJ IDEA (ou un autre IDE de votre choix).
+
+Instructions d'Exécution
+
+Ouverture du Projet :
+Aprés le clonage du Dépôt , Ouvrez IntelliJ IDEA.
+ Sélectionnez "File" > "Open" et choisissez le dossier du projet.
+
+Exécution depuis l'IDE :
+ Trouvez le fichier principal du projet (généralement avec l'extension .java).
+ Cliquez avec le bouton droit sur le fichier et choisissez "Run" .
+
+Exécution depuis la Ligne de Commande :
+Ouvrez un terminal/command prompt.
+Accédez au répertoire du projet.
+ Compilez le code (si nécessaire) :
+    
+     javac NomDuFichier.java
+Exécutez l'application :
+
+    java NomDuFichier
+
+
 
 ## Rendu  :   ✔️
  
