@@ -17,8 +17,9 @@ Ce projet, réalisé dans le cadre du cours "Génie Logiciel", consiste à déve
         Validation des méthodes avec des instances réelles d'oranges dans le panier.
     Tests d'Acceptation :
         Scénarios d'utilisation pour tester l'IHM dans des conditions réelles.
-
+   
 Technologies Utilisées
+
     Langage : Java
     IDE : IntelliJ IDEA
     Tests : JUnit/Mockito ou EasyMock
