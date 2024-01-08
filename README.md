@@ -36,4 +36,5 @@ Technologies Utilisées
 - Utilisation de Git pour la gestion des versions et le travail collaboratif.
 - Intégration continue avec Jenkins ou GitLab CI.
 
-## Rendu 
+## Rendu  :   ✔️
+ 
