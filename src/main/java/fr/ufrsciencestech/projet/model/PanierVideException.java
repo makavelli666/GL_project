@@ -1,0 +1,8 @@
+package fr.ufrsciencestech.projet.model;
+
+public class PanierVideException extends Exception {
+    public PanierVideException()
+    {
+	super("Suppression impossible car le panier est vide !");
+    }
+}
