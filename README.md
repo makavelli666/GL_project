@@ -20,11 +20,11 @@ Ce projet, réalisé dans le cadre du cours "Génie Logiciel", consiste à déve
    
 Technologies Utilisées
 
-    Langage : Java
-    IDE : IntelliJ IDEA
-    Tests : JUnit/Mockito ou EasyMock
-    Contrôle de Version : Git
-    Intégration Continue : Jenkins ou GitLab CI
+    Langage :                 Java
+    IDE :                     IntelliJ IDEA
+    Tests :                   JUnit/Mockito 
+    Contrôle de Version :     Git
+    Intégration Continue :    Jenkins et GitLab CI
   
 ## Comment Exécuter le Projet
 Prérequis
