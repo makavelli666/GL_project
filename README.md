@@ -31,8 +31,8 @@ Prérequis
 
 Assurez-vous d'avoir installé les outils suivants sur votre machine :
 
-    Java : Version compatible avec le projet.
-    IDE : IntelliJ IDEA (ou un autre IDE de votre choix).
+    Java :  Version compatible avec le projet.
+    IDE :   IntelliJ IDEA (ou un autre IDE de votre choix).
 
 Instructions d'Exécution
 
@@ -52,7 +52,7 @@ Accédez au répertoire du projet.
      javac NomDuFichier.java
 Exécutez l'application :
 
-    java NomDuFichier
+     java NomDuFichier
 
 
 
